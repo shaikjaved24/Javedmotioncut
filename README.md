@@ -1,2 +1,2 @@
 # Javedmotioncut
-Creating a quiz gane 
+Creating a quiz game 
