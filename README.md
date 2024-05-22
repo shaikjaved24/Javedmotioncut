@@ -1,7 +1,6 @@
 # Javedmotioncut
 Creating a quiz game 
 
-# Define a list of questions and answers
 quiz = [
     {"question": "What is the capital of France?", "answer": "Paris"},
     {"question": "What is 2 + 2?", "answer": "4"},
@@ -10,7 +9,6 @@ quiz = [
     {"question": "Who wrote 'Hamlet'?", "answer": "Shakespeare"}
 ]
 
-# Function to run the quiz
 def run_quiz(quiz):
     score = 0
     for item in quiz:
